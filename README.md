@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Daniel Plazas
+
+- 🔭 I’m currently studying Software Systems Engineering in ICESI University.
+- 💬 Ask me about mathematics, music and coding.
+- 🌱 I’m currently learning trombone, and tenor flute; Python and C++.
 
 <!--
 **DanielJPC19/DanielJPC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
