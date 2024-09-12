@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats 📈
-![DanielJPC19's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielJPC19&show_icons=true)
+
+![DanielJPC19's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DanielJPC19&show_icons=true&include_all_commits=true&count_private=true)
+
+## Streak
+
+![DanielJPC19's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielJPC19)
 
 ## Languages 💬
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJPC19&hide_progress=true)
+
+![DanielJPC19's GitHub Language](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DanielJPC19&no-bg=true&no-frame=true&langs_count=10)
