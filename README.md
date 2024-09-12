@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Software Systems Engineering in ICESI University.
 - 💬 Ask me about mathematics, music and coding.
-- 🌱 I’m currently learning trombone, and tenor flute; Python and C++.
+- 🌱 I’m currently learning Python and C++.
 
 <!--
 **DanielJPC19/DanielJPC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats 📈
+![DanielJPC19's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielJPC19&show_icons=true)
+
+## Languages 💬
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJPC19&hide_progress=true)
