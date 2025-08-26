@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## TryHackMe Stats
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5477072" style='border:none;'></iframe>
+![TryHackMe Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5477072)
