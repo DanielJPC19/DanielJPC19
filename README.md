@@ -30,7 +30,3 @@ Here are some ideas to get you started:
 ## Languages 💬
 
 ![DanielJPC19's GitHub Language](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJPC19&no-bg=true&no-frame=true&langs_count=30&private=true)
-
-## TryHackMe Stats
-
-![TryHackMe Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5477072)
