@@ -29,14 +29,14 @@ When I'm not writing code, I'm playing the bandola or thinking about distributed
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DanielJPC19&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielJPC19&show_icons=true&include_all_commits=true&count_private=true" />
 
 </div>
 
 ## Languages stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DanielJPC19&no-bg=true&no-frame=true&langs_count=30&private=true" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DanielJPC19&no-bg=true&no-frame=true&langs_count=30&private=true" />
 </div>
 
 ## Streak
