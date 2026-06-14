@@ -28,13 +28,18 @@ When I'm not writing code, I'm playing the bandola or thinking about distributed
 ## GitHub Stats 📈
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielJPC19&show_icons=true&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielJPC19" />
-
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DanielJPC19&no-bg=true&no-frame=true&langs_count=30&private=true" />
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielJPC19&show_icons=true&include_all_commits=true&count_private=true" />
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielJPC19" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DanielJPC19&no-bg=true&no-frame=true&langs_count=30&private=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer" />
